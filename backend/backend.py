@@ -6,3 +6,4 @@ b=2
 c=a+b
 tftft=47847
 fkwjf=6222
+print(c)
